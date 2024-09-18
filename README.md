@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhelois
+- 👋 Hi, I’m @Akhelois (Aka Jason Lee)
 - 👀 I’m interested in Something
 - 🌱 I’m currently learning Something
 - 💞️ I’m looking to collaborate on Something
