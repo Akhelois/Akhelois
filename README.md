@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhelois (Aka Jason Lee)
+- 👋 Hi, I’m @Akhelois
 - 👀 I’m interested in Programming and UI/UX
 - 🌱 I’m currently learning Python
 
